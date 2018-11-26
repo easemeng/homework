@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    line-height: 60px;
+    background-color: #FFC0CB;
+    text-align: center;
+    color: #fff
+
+}
+.main-body{
+    margin: 0 auto;
+    width: 400px;
+}
+.main-body h4{
+    margin:5px 0;
+}
+.main-body h4:hover{
+    cursor: pointer;
+    color: #7F7F7F;
+}
+.main-body img{
+    width: 400px;
+    height: 250px;
+}
+.main-body p,li,dt,dd{
+    cursor: pointer;
+    margin: 10px 0;
+}
+.main-body p:hover{
+    color: #FFCBCB;
+}
+.main-body ul li:hover,dl dt:hover,dd:hover{
+    color: #FF1493
+}
+.skip{
+    text-align: center;
+}
